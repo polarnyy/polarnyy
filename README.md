@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm polarnyy 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=polarnyy&label=Profile%20views&color=0e75b6&style=flat" alt="polarnyy" /> </p>
 
-
+<img align="center" alt="Coding" width="1400" hight="auto" src="https://i.imgur.com/e4PXAvY.png"></img>
 
 
 <h2 align="center">🔗 Social Media 🔗</h2>
