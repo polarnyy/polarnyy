@@ -6,7 +6,7 @@
 
 <h2 align="center">🔗 Social Media 🔗</h2>
 
-<p dir="auto" align="center"><b>Discord</b> <code>polarnyy#2137</code></p>
+<p dir="auto" align="center"><b>Discord</b> <code>polarnyy</code></p>
 
 <p align="center">
 <a href="https://instagram.com/polarnyy" target="blank"><img align="center" src="https://i.imgur.com/w2Badkz.png" alt="polarnyy" height="50" width=auto /></a>
