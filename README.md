@@ -1,24 +1,36 @@
-<h1 align="center">Hi, I'm polarnyy 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=polarnyy&label=Profile%20views&color=0e75b6&style=flat" alt="polarnyy" /> </p>
+<div align="center">
 
-<img align="center" alt="Coding" width="1400" hight="auto" src="https://i.imgur.com/e4PXAvY.png"></img>
+  <h1>⚡ polarnyy ⚡</h1>
 
+  <p>
+    <a href="https://github.com/polarnyy">
+      <img src="https://komarev.com/ghpvc/?username=polarnyy&label=VIEWS&color=007acc&style=for-the-badge" alt="Views" />
+    </a>
+    <a href="https://discord.com">
+      <img src="https://img.shields.io/badge/Discord-polarnyy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://instagram.com/polarnyy">
+      <img src="https://img.shields.io/badge/Instagram-@polarnyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
-<h2 align="center">🔗 Social Media 🔗</h2>
+  <br />
 
-<p dir="auto" align="center"><b>Discord</b> <code>polarnyy</code></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,gradle,mysql,docker,linux,bash,git,idea&theme=dark" alt="Tech Stack" />
+  </a>
 
-<p align="center">
-<a href="https://instagram.com/polarnyy" target="blank"><img align="center" src="https://i.imgur.com/w2Badkz.png" alt="polarnyy" height="50" width=auto /></a>
-<a href="https://dc.xocode.pl" target="blank"><img align="center" src="https://i.imgur.com/7WZVvRx.png" alt="polarnyy#2137" height="50" width=auto /></a>
-</p>
+  <br /><br />
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polarnyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarnyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<h2 align="center">👨‍💻 Languages and Tools 👨‍💻</h2>
-<p align="center"> <img src="https://i.imgur.com/CIsm2RN.png" alt="java" width="auto" height="50"/></p>
+  <br /><br />
 
-<h2 align="center">📈 Statistics 📈</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarnyy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
+  <br /><br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=polarnyy&theme=dark&show_icons=true&locale=en" alt="polarnyy" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polarnyy&theme=dark" alt="polarnyy" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=polarnyy&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+
+</div>
