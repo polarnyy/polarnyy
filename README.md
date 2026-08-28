@@ -27,7 +27,12 @@
   <hr width="80%" />
   <br />
 
-  <!-- Wykres Aktywności -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=polarnyy&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+  <!-- Statystyki -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=polarnyy&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarnyy&theme=dark" alt="Streak Stats" />
+  </p>
 
 </div>
